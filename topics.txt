@@ -1,0 +1,9 @@
+1 - use ChatGPT in python
+2 - LLM vs ChatModels
+3 - Prompt Templating
+4 - Chains (Simple Sequential & Sequential)
+5 - Agents
+6 - Memory
+7 - Output parser
+8 - Pdf Query (Chat with your Data)
+9 - OpenAI function calling
